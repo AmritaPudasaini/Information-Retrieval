@@ -1,0 +1,1 @@
+Boolean retrieval uses AND, OR, and NOT operators on query terms.
